@@ -30,4 +30,5 @@ Real-Time Cricket Score Updater is a Python application built with Tkinter and w
 
 ## ScreenShot
 
-![image](https://github.com/Mr-Vicky-01/Deplyment-Deep-learining/assets/143078285/7990308d-1d64-4370-aadc-1ec184c7881d)
+![image](https://github.com/Mr-Vicky-01/Deplyment-Deep-learining/assets/143078285/c938527b-d7e5-4966-95c0-5db98a774231)
+
