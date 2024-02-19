@@ -16,7 +16,7 @@ Real-Time Cricket Score Updater is a Python application built with Tkinter and w
 ## Repository Structure
 
 - `/src`: Contains the source code for the application.
-  - `/modules`: Modules and classes for different components of the application.
+- `/modules`: Modules and classes for different components of the application.
 - `/screenshots`: Screenshots of the application in action.
 - `/tests`: Unit tests for ensuring the functionality of the code.
 
